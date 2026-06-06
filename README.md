@@ -1,70 +1,61 @@
-<h1 align="center">👋 Hey, I'm JG!</h1>
+<h1 align="center">JGNAO</h1>
 
 <p align="center">
-  🇧🇷 Brazilian Student <br>
-  💻 Passionate about Programming <br>
-  📚 Always Learning Something New
+  Student • Full-Stack & Desktop Applications
+</p>
+
+<p align="center">
+  Passionate about building applications, learning new technologies, and turning ideas into real projects.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 📖 I enjoy learning new technologies and concepts.
-- 💻 I like creating projects and experimenting with different ideas.
-- 🎯 Currently improving my programming skills.
-- 🌱 Always looking for new challenges and opportunities to grow.
+I'm a Brazilian student focused on software development and constantly improving my programming skills.
+
+I enjoy creating projects, exploring new technologies, and solving problems through code. Most of my work involves web development, desktop applications, and experimenting with different programming languages and frameworks.
 
 ---
 
-## 🛠️ Technologies I Use
-## 🎨 Front End
+## 🛠️ Tech Stack
 
-<div align="center">
+
+### Front-End:
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-</div>
+</p>
 
----
+### Back-End:
 
-## ⚙️ Back End
-
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-</div>
+</p>
 
----
+### Other Technologies:
 
-## 🎮 Just for Fun
-
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender"/>
-</div>
-</div>
+</p>
 
 ---
 
-## 🎯 Goals
+## 🚀 Current Focus
 
-- Learn more about software development.
-- Build useful and creative projects.
-- Improve my problem-solving skills.
-- Contribute to open-source projects.
+- Front-End Development with React
+- Desktop Applications
+- Software Architecture Fundamentals
+- Learning New Programming Languages (Rust, C++)
+- Open Source Projects
 
 ---
 
-<div align="center">
-
-### Thanks for visiting my profile! 🚀
-
-</div>
+<p align="center">
+  <i>Always learning, always building.</i>
+</p>
